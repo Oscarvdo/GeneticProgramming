@@ -9,7 +9,7 @@ import os
 import matplotlib.pyplot as plt 
 
 # Carga los datos
-data = pd.read_csv('/home/ovalenzuela/ovalenzuela/python/data.csv')
+data = pd.read_csv('/home/(user)/PG/python/data.csv')
 
 # Corrige los valores no numéricos en las columnas requeridas
 columns_to_convert = ['Temp', 'HR', 'OZONO', 'RS', 'PM@10', 'PM2@5', 'SO2', 'NOX']
