@@ -8,7 +8,7 @@ The system analyzes meteorological conditions and atmospheric pollutants to auto
 
 # Overview
 
-This project combines:
+This project combines: 
 
 - Environmental Data Analysis
 - Air Quality Classification
